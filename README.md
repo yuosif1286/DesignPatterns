@@ -203,6 +203,6 @@ public class Program
 Use the State pattern to let an object change its behavior when its internal state changes.
 
 # [Executed By *YOYO*]
-### [FaceBook]((https://www.facebook.com/profile.php?id=100009911341630))
-### [Linked]((https://www.linkedin.com/in/yuosif-raed-04a84621a/))
+### [FaceBook](https://www.facebook.com/profile.php?id=100009911341630)
+### [Linked](https://www.linkedin.com/in/yuosif-raed-04a84621a/)
 ### WhatsApp : +9647737872034
